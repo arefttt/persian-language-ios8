@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%@
+
+Kind: %@
+Size: %@</key>
+	<string>%@
+
+Type: %@
+Size: %@</string>
+	<key>%@ is sending a file</key>
+	<string>%@ is sending a file</string>
+	<key>Abort</key>
+	<string>لغو</string>
+	<key>Accept</key>
+	<string>قبول</string>
+	<key>Accept all</key>
+	<string>قبول همه</string>
+	<key>Accepted</key>
+	<string>Accepted</string>
+	<key>Access point</key>
+	<string>Access point</string>
+	<key>Activation method</key>
+	<string>Activation method</string>
+	<key>Activation method used to turn on receiving</key>
+	<string>Activation method used to turn on receiving</string>
+	<key>AirBlue Sharing</key>
+	<string>AirBlue Sharing</string>
+	<key>Audio/Video</key>
+	<string>Audio/Video</string>
+	<key>BLUETOOTH_BUTTON</key>
+	<string>Bluetooth</string>
+	<key>BLUETOOTH_CONNECT_FAILED_MESSAGE</key>
+	<string>Failed to connect to "OBEX Object Push" service on remote device, please try again in a few minutes later.</string>
+	<key>BLUETOOTH_CONNECT_FAILED_TITLE</key>
+	<string>Bluetooth connection failed</string>
+	<key>Bad Request</key>
+	<string>Bad Request</string>
+	<key>Camera roll imported</key>
+	<string>Camera roll imported</string>
+	<key>Cancel</key>
+	<string>لغو</string>
+	<key>Choose a device</key>
+	<string>یک دستگاه انتخاب کنید</string>
+	<key>Computer</key>
+	<string>Computer</string>
+	<key>Conflict</key>
+	<string>Conflict</string>
+	<key>Contact imported</key>
+	<string>Contact imported</string>
+	<key>Continue</key>
+	<string>Continue</string>
+	<key>Created</key>
+	<string>Created</string>
+	<key>DEVICE_MISSING_OBEX_SERVICE_MESSAGE</key>
+	<string>Please make sure "OBEX Object Push" or "Bluetooth File Transfer" is enabled on remote device.
+
+ For iOS device, please enable AirBlue Sharing or other compatible tools.
+
+For Mac OS X, you can turn on "Bluetooth Sharing" in System Preferences.
+
+ For Windows, you can check on "Receive a File" in the Bluetooth menu.</string>
+	<key>DEVICE_MISSING_OBEX_SERVICE_TITLE</key>
+	<string>Device not supported</string>
+	<key>Database full</key>
+	<string>Database full</string>
+	<key>Decline</key>
+	<string>Decline</string>
+	<key>Dismiss</key>
+	<string>نادیده گرفتن</string>
+	<key>Enable Receiving</key>
+	<string>Enable Receiving</string>
+	<key>FAILED_TO_RETRIEVE_SERVICE_INFO_MESSAGE</key>
+	<string>We can not connect to the remote device, or the remote device failed to response our service query. Please make sure Bluetooth on remote device is enabled.</string>
+	<key>FAILED_TO_RETRIEVE_SERVICE_INFO_TITLE</key>
+	<string>Failed to retrieve OBEX service information</string>
+	<key>File Transfers</key>
+	<string>File Transfers</string>
+	<key>File received</key>
+	<string>فایل دریافت شد</string>
+	<key>File received from %@</key>
+	<string>File received from %@</string>
+	<key>File sent</key>
+	<string>File sent</string>
+	<key>File sent to %@</key>
+	<string>File sent to %@</string>
+	<key>Forbidden</key>
+	<string>Forbidden</string>
+	<key>Frequently asked questions</key>
+	<string>Frequently asked questions</string>
+	<key>Hide</key>
+	<string>Hide</string>
+	<key>Imaging</key>
+	<string>Imaging</string>
+	<key>Import received</key>
+	<string>Import received</string>
+	<key>Import received files into applications</key>
+	<string>Import received files into applications</string>
+	<key>InfoShade is enable, you can check transfers in the popup alert view. If you enable other Notification Center modes in LockInfo, you can check AirBlue Sharing transfers in Notification Center.</key>
+	<string>InfoShade is enable, you can check AirBlue Sharing transfers in the popup alert view. If you enable other Notification Center modes in LockInfo, you can check transfers in Notification Center.</string>
+	<key>Internal server error</key>
+	<string>Internal server error</string>
+	<key>LOCALIZATION_AUTHOR_TWITTER</key>
+	<string>@smartype</string>
+	<key>Last Updated: %@</key>
+	<string>Last Updated: %@</string>
+	<key>Localizations</key>
+	<string>Localizations</string>
+	<key>LockInfo Detected</key>
+	<string>LockInfo Detected</string>
+	<key>Method not allowed</key>
+	<string>Method not allowed</string>
+	<key>Miscellaneous</key>
+	<string>Miscellaneous</string>
+	<key>Music imported</key>
+	<string>Music imported</string>
+	<key>No Content</key>
+	<string>No Content</string>
+	<key>Not found</key>
+	<string>Not found</string>
+	<key>Not implemented!</key>
+	<string>Not implemented!</string>
+	<key>Note imported</key>
+	<string>Note imported</string>
+	<key>OBEX_CONNECT_CMD_FAILED_TITLE</key>
+	<string>OBEX "CONNECT" operation failed</string>
+	<key>OBEX_PUSH_CMD_FAILED_TITLE</key>
+	<string>OBEX "PUSH" operation failed</string>
+	<key>OK, Success</key>
+	<string>OK, Success</string>
+	<key>Payment required</key>
+	<string>Payment required</string>
+	<key>Peripheral</key>
+	<string>Peripheral</string>
+	<key>Phone</key>
+	<string>Phone</string>
+	<key>Pull down to refresh ...</key>
+	<string>Pull down to refresh ...</string>
+	<key>Pull down to show transfers</key>
+	<string>Pull down to show transfers</string>
+	<key>Ready for receiving, tap to show transfers</key>
+	<string>Ready for receiving, tap to show transfers</string>
+	<key>Ready for receiving.</key>
+	<string>Ready for receiving.</string>
+	<key>Receiving %@</key>
+	<string>Receiving %@</string>
+	<key>Refreshing ...</key>
+	<string>Refreshing ...</string>
+	<key>Release to refresh ...</key>
+	<string>Release to refresh ...</string>
+	<key>Reveal Notification Center to check transfers.</key>
+	<string>Reveal Notification Center to check active transfers.</string>
+	<key>SHARE_BOOK_WITH</key>
+	<string>Share this book with:</string>
+	<key>SHARE_CONTACT_WITH</key>
+	<string>Share this contact with:</string>
+	<key>SHARE_FILES_WITH</key>
+	<string>Share these files with:</string>
+	<key>SHARE_FILE_WITH</key>
+	<string>Share this file with:</string>
+	<key>SHARE_MOVIE_WITH</key>
+	<string>Share this movie with:</string>
+	<key>SHARE_NOTE_WITH</key>
+	<string>Share this note with:</string>
+	<key>SHARE_PODCAST_WITH</key>
+	<string>Share this podcast with:</string>
+	<key>SHARE_SONG_WITH</key>
+	<string>Share this song with:</string>
+	<key>SHARE_VIDEO_WITH</key>
+	<string>Share this video with:</string>
+	<key>Sending %@</key>
+	<string>Sending %@</string>
+	<key>Switching protocols</key>
+	<string>Switching protocols</string>
+	<key>TRANSFER_ABORTED_MESSAGE</key>
+	<string>The file transfer has been aborted by the remote side.</string>
+	<key>TRANSFER_ABORTED_TITLE</key>
+	<string>Transfer aborted</string>
+	<key>Tap to show transfers</key>
+	<string>Tap to show transfers</string>
+	<key>Unauthorized</key>
+	<string>Unauthorized</string>
+	<key>Uncategorized</key>
+	<string>Uncategorized</string>
+	<key>Unknown</key>
+	<string>Unknown</string>
+	<key>Unknown response</key>
+	<string>Unknown response</string>
+	<key>User guide</key>
+	<string>User guide</string>
+	<key>Video imported</key>
+	<string>Video imported</string>
+	<key>Waiting ...</key>
+	<string>Waiting ...</string>
+	<key>You can use Activator gesture to enable AirBlue Sharing receiving, the default guesture is double tap on status bar, check "Settings"/"AirBlue Sharing" for detail.</key>
+	<string>You can use Activator gesture to enable AirBlue Sharing receiving, the default guesture is double tap on status bar, check "Settings"/"AirBlue Sharing" for detail.</string>
+</dict>
+</plist>
